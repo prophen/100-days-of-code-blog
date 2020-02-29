@@ -9,12 +9,12 @@ template: docs
 ![Ruby on Rails lesson completed](../../../../static/images/progate.png)
 
 </div>
-Links to work:
+Links to work
 
 - https://tweet-app-prophen.herokuapp.com/
 - https://github.com/prophen/tweet_app
 
-Resources I used today:
+Resources I used today
 - https://www.linkedin.com/learning/installing-and-running-ruby-on-rails-5-mac/mysql?u=24867419
 
    Had a false start with this one. Trying to install mysql2 didn't work. I figured it was an old tutorial and I went back to progate where I found the tutorials for setting up my environment.
@@ -39,7 +39,7 @@ Resources I used today:
    `tail /usr/local/var/log/postgres.log`
    I found out how to inspect the server log here. This was the key to finding the bug. I was using version 12 of postgres and I needed version 11.
 
-Social posts:
+Social posts
 - https://twitter.com/dev_nikema/status/1230757477081214977?s=20
 - https://dev.to/nikema/nikema-s-100-days-of-code-day-5-5bib
 

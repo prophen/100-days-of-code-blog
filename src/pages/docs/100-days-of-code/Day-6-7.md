@@ -38,18 +38,18 @@ Here's what did it
 
 I started a [Wordpress API and React tutorial today by Traversy Media](https://www.youtube.com/watch?v=fFNXWinbgro) on YouTube. I've worked with local Wordpress before but I've never used a docker compose file to set one up. 
 
-Wordpress Docker Compose File: https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42
+Wordpress Docker Compose File - https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42
 
 Very cool and easy compared to proprietary tools and other solutions like MAMP.
 
 *****
 
-Links to work:
+Links to work
 - https://github.com/prophen/daily-js
 - https://[mysubdomain].daily.co/from-insomnia
 - https://github.com/prophen/frontend
 
-Resources I used today:
+Resources I used today
 
 - https://github.com/facebook/create-react-app
 - https://www.youtube.com/watch?v=fFNXWinbgro
@@ -64,7 +64,7 @@ Swift
 Daily.co API
 - https://docs.daily.co/reference#introduction
 
-Social posts:
+Social posts
 - https://twitter.com/dev_nikema/status/1231322299669762049?s=20
 - https://twitter.com/dev_nikema/status/1231422919697321984?s=20
 

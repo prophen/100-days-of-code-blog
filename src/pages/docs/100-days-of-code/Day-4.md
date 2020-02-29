@@ -24,17 +24,17 @@ I was getting an error message when I tried to start the server after updating t
 
 ****
 
-Links to work:
+Links to work
 
 
-Resources I used today:
+Resources I used today
 - https://hub.github.com/hub-gist.1.html
 
    Installing Rails 
    - https://progate.com/docs/ruby-env
    - https://progate.com/docs/rails-env
 
-Social posts:
+Social posts
 - https://dev.to/nikema/nikema-s-100-days-of-code-day-3-33kl
 - https://twitter.com/dev_nikema/status/1230332042375647233?s=20
 

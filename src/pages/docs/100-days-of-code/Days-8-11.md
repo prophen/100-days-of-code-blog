@@ -17,10 +17,10 @@ I'm motivated to do cool things with WordPress and APIs and the best way I see t
 
 *****
 
-Links to work:
+Links to work
 - https://github.com/prophen/frontend
 
-Resources I used today:
+Resources I used today
 
 - https://www.hostinger.com/tutorials/how-to-install-composer
 - https://codex.wordpress.org/Writing_a_Plugin
@@ -29,7 +29,7 @@ Resources I used today:
 - https://www.smashingmagazine.com/2016/03/making-a-wordpress-plugin-that-uses-service-apis/
 
 
-Social posts:
+Social posts
 - [6-7/100] - https://dev.to/nikema/nikema-s-100-days-of-code-days-6-and-7-5am9
 - [8/100] - https://twitter.com/dev_nikema/status/1231876881747570690?s=20
 - [9/100] - https://twitter.com/dev_nikema/status/1232001565608644609?s=20

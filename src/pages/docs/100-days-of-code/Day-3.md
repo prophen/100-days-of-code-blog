@@ -20,15 +20,15 @@ I learned that the `.playground` file is a package. Inside of it is the `.swift`
 
 ****
 
-Links to work:
+Links to work
 - https://github.com/prophen/serverless-todo
 
-Resources I used today:
+Resources I used today
 - https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
 - https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html
 
 
-Social posts:
+Social posts
 - https://twitter.com/dev_nikema/status/1229869815768051712?s=20
 
 
