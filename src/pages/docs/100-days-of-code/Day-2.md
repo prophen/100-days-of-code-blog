@@ -19,16 +19,19 @@ https://gist.github.com/prophen/ffa5777dfac1b8abe06184cd23f05e4b
 
 ****
 
-Links to work:
+Links to work
+
 - https://github.com/prophen/serverless-todo/pull/2
 - https://github.com/prophen/100-days-of-code/pull/1
 
-Resources I used today:
+Resources I used today
+
 - https://hub.github.com/hub-pull-request.1.html
 - https://hub.github.com/hub-gist.1.html
 - https://www.w3schools.com/charsets/ref_emoji.asp
 
-Social posts:
+Social posts
+
 - https://dev.to/nikema/nikema-s-100-days-of-code-3a3n
 - https://twitter.com/dev_nikema/status/1229463477766373376?s=20
 
