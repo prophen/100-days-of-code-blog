@@ -1,13 +1,20 @@
 ---
-title: About
+title: 100 Days of Code Log
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  I'm doing the #100DaysOfCode Challenge. I am determined to finish a round for the first time.
 template: docs
 ---
+![100 Days of Code](../../../../static/images/100-doc.png)
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+The challenge has already started here - https://github.com/prophen/100-days-of-code. 
 
+I decided I want to make my log prettier and more organized. I will write the daily log formatted as documentation.
+
+I've attempted this several times and I have yet to get to the end of the challenge. I'm ready now and I wont give up until I reach day 100.
+
+My focus is on documentation and learning git. I only had my first successful rebase yesterday (Feb. 15, 2020). I know git is powerful and I want to learn how to use it well.
+
+<p align="center" ><a href="https://www.buymeacoffee.com/nikema" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="150px"></a></p>
 ***
 
 Here are the articles in this section:
