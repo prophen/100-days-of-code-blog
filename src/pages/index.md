@@ -15,7 +15,7 @@ sections:
     component: FeaturesBlock
     featureslist:
       - title: Documentation
-        content: 'Documentation and notes starting with #100DaysOfCode'
+        content: 'Documentation starting with #100DaysOfCode'
         actions:
           - label: Get Started
             url: docs/index.html
