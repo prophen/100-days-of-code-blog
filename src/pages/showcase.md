@@ -21,7 +21,8 @@ items:
     url: 'https://themes.stackbit.com/demos/ampersand/'
 menus:
   layouts:
-    title: Showcase
+    title: ''
     weight: 2
 template: showcase
 ---
+
