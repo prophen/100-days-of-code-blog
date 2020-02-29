@@ -5,7 +5,7 @@ img_path: images/5.jpg
 menus:
   main:
     title: ''
-    weight: 4
+    weight: ''
 template: page
 ---
 
