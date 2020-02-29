@@ -5,7 +5,7 @@ sections:
     title: Welcome to Nikema's Dev Blog + Notes
     section_id: hero
     component: HeroBlock
-    content: A place for all of my notes and writing about code.
+    content: A place to document all the things!
     image: images/5.jpg
     actions:
       - label: Get Started
