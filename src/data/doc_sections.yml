@@ -1,7 +1,6 @@
 root_folder: /docs/
 sections:
-  - about
-  - getting-started
+  - 100-days-of-code
   - ui-components
   - manage-content
   - tools
