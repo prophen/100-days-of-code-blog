@@ -11,13 +11,10 @@ It's day one and so far here's what I've done with code:
 
 * Set up this repo using [GitHub hub](https://hub.github.com).
 * Viewed my learning module and passed the quiz for this week in my iOS course. The topic is control flow.
-
   * [Swift Docs on Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
 * Got to practice `git rebase` on this repo 
-
   * https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
 * Learned how to center in markdown on GitHub 
-
   * https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
 
 - - -
