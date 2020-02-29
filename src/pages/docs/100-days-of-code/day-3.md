@@ -1,5 +1,6 @@
 ---
 title: Day 3
+weight: 3
 template: docs
 ---
 

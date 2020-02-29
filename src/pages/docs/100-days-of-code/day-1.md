@@ -1,5 +1,6 @@
 ---
 title: Day 1
+weight: 1
 template: docs
 ---
 It's day one and so far here's what I've done with code:

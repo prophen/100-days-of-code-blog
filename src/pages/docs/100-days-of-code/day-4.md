@@ -1,5 +1,6 @@
 ---
 title: Day 4
+weight: 4
 template: docs
 ---
 

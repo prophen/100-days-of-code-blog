@@ -1,5 +1,6 @@
 ---
 title: Day 6-7
+weight: 7
 template: docs
 ---
 
