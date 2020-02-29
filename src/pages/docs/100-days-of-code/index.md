@@ -4,7 +4,7 @@ excerpt: >-
   I'm doing the #100DaysOfCode Challenge. I am determined to finish a round for the first time.
 template: docs
 ---
-![100 Days of Code](../../../../static/images/100-doc.png)
+![100 Days of Code](/images/100-doc.png)
 
 The challenge has already started here - https://github.com/prophen/100-days-of-code. 
 

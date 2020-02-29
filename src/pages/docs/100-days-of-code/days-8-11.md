@@ -8,7 +8,7 @@ It's day 11 and I haven't written in the GitHub log since day 7. I've still been
 
 Added logout to the React frontend for the WordPress site.
 
-![login/logout](images/login-logout.gif)
+![login/logout](/images/login-logout.gif)
 
 Today I wrote a plugin for WordPress. I used PHP many years ago. I never felt I had a grasp of it and it's still looks very foreign to me.
 

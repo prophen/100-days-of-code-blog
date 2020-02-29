@@ -10,11 +10,11 @@ I'm letting it be known that I want to work as a developer in a community or adv
 
 Worked on a few exercises for my iOS class.
 
-![swift code](images/swift.png)
+![swift code](/images/swift.png)
 
 Digging into daily.co api
 
-![Get / in Insomnia app](images/get-insomnia.png)
+![Get / in Insomnia app](/images/get-insomnia.png)
 
 I was able to create my own new room from the API 🙌🏾
 
