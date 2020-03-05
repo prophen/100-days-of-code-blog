@@ -26,3 +26,6 @@ Links to work:
 Resources I used today:
 - https://wordpress.org/support/article/formatting-date-and-time/
 - https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/
+
+Social posts:
+- [Twitter [19/100] #100DaysOfCode](https://twitter.com/dev_nikema/status/1235650765688954880?s=20)
