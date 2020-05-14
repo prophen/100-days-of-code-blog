@@ -26,8 +26,9 @@ sections:
             url: blog/index.html
       - title: Portfolio
         actions:
-          - label: See My Projects
+          - label: Projects
             url: showcase/index.html
+        content: Nikema's latest projects
 menus:
   main:
     title: Home
