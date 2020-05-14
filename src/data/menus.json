@@ -1,16 +1,6 @@
 {
   "main": [
     {
-      "title": "Blog",
-      "url": "blog/index.html",
-      "identifier": "Blog"
-    },
-    {
-      "title": "Docs",
-      "url": "docs/index.html",
-      "identifier": "Docs"
-    },
-    {
       "title": "Portfolio",
       "url": "showcase/index.html",
       "identifier": "Portfolio"
