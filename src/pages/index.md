@@ -15,19 +15,22 @@ sections:
     component: FeaturesBlock
     featureslist:
       - title: Documentation
-        content: 'Documentation starting with #100DaysOfCode'
+        content: "Documentation starting with #100DaysOfCode"
         actions:
           - label: Get Started
             url: docs/index.html
       - title: Blog
-        content: 'Blog to accompany notes and #100DaysOfCode logs.'
+        content: "Blog to accompany notes and #100DaysOfCode logs."
         actions:
           - label: View Posts
             url: blog/index.html
+      - title: Portfolio
+        actions:
+          - label: See My Projects
+            url: showcase/index.html
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
-
