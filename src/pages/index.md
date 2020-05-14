@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: heroblock
-    title: Welcome to Nikema's Dev Blog + Notes
+    title: Nikema's Notes
     section_id: hero
     component: HeroBlock
-    content: A place to document all the things!
+    content: Document all the things!
     image: images/5.jpg
     actions:
       - label: Get Started
