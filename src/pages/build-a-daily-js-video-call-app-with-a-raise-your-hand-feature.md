@@ -4,7 +4,7 @@ img_path: /images/daily-app.png
 menus:
   main:
     title: Daily-js Project
-    identifier: Projects
+    identifier: Portfolio
 template: page
 ---
 ![](/images/daily-app.png)
