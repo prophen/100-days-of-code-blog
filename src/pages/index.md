@@ -2,14 +2,25 @@
 title: Home
 sections:
   - type: heroblock
-    title: Nikema's Notes
+    title: Nikema is seeking employment 👩🏾‍💻
     section_id: hero
     component: HeroBlock
-    content: Document all the things!
+    content: >-
+      I'm a tech generalist and software engineer seeking an entry-level role in
+      the following fields:
+
+
+      - Developer Relations
+
+      - Technical Support Engineering
+
+      - Documentation Engineering
     image: images/5.jpg
     actions:
-      - label: Get Started
-        url: docs/index.html
+      - label: GitHub Profile
+        url: https://github.com/prophen
+      - label: LinkedIn Profile
+        url: https://linkedin.com/in/nikemaprophet
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
