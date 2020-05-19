@@ -2,8 +2,14 @@
   "main": [
     {
       "title": "Portfolio",
-      "url": "showcase/index.html",
+      "url": "showcase",
       "identifier": "Portfolio"
+    },
+    {
+      "identifier": "Projects",
+      "title": "Projects",
+      "url": "#"
     }
-  ]
+  ],
+  "layouts": []
 }
