@@ -4,10 +4,10 @@ img_path: /images/daily-app.png
 menus:
   main:
     title: Daily-js Project
-    identifier: Projects
+    identifier: Daily-js
   layouts:
-    identifier: ""
-    title: ""
+    identifier: Projects
+    title: Projects
 template: page
 ---
 ![](/images/daily-app.png)
