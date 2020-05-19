@@ -6,8 +6,8 @@ menus:
     title: Daily-js Project
     identifier: Projects
   layouts:
-    identifier: Projects
-    title: Projects
+    identifier: ""
+    title: ""
 template: page
 ---
 ![](/images/daily-app.png)
