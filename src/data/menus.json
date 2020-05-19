@@ -4,11 +4,6 @@
       "title": "Portfolio",
       "url": "showcase",
       "identifier": "Portfolio"
-    },
-    {
-      "identifier": "Projects",
-      "title": "Projects",
-      "url": "#"
     }
   ],
   "layouts": []
