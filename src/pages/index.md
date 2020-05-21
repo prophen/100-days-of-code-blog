@@ -42,6 +42,13 @@ sections:
           - label: Projects
             url: showcase/index.html
         content: Nikema's latest projects
+  - type: ctablock
+    component: CtaBlock
+    title: Daily-js API sample app
+    subtitle: walkthrough building the app with code samples
+    actions:
+      - label: See the blog
+        url: pages/build-a-daily-js-video-call-app-with-a-raise-your-hand-feature
 menus:
   main:
     title: Home
