@@ -3,11 +3,11 @@ title: "Build a Daily-js video call app with a Raise Your Hand feature "
 img_path: /images/daily-app.png
 menus:
   main:
-    title: ""
-    identifier: ""
-  layouts:
-    identifier: Projects
     title: Projects
+    identifier: Projects
+  layouts:
+    identifier: ""
+    title: ""
 template: page
 ---
 ![](/images/daily-app.png)
