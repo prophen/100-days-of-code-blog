@@ -3,8 +3,8 @@ title: "Build a Daily-js video call app with a Raise Your Hand feature "
 img_path: /images/daily-app.png
 menus:
   main:
-    title: Pages/Daily-js Call App
-    identifier: Pages
+    title: ""
+    identifier: ""
   layouts:
     identifier: ""
     title: ""
