@@ -29,7 +29,7 @@ sections:
     subtitle: walkthrough building the app with code samples
     actions:
       - label: See the blog
-        url: pages/build-a-daily-js-video-call-app-with-a-raise-your-hand-feature
+        url: build-a-daily-js-video-call-app-with-a-raise-your-hand-feature
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
