@@ -23,6 +23,13 @@ sections:
         url: https://linkedin.com/in/nikemaprophet
       - label: My Resume
         url: https://nikema.dev/Nikema%20Prophet%20Software%20Engineer%20Resume.pdf
+  - type: ctablock
+    component: CtaBlock
+    title: Daily-js API sample app
+    subtitle: walkthrough building the app with code samples
+    actions:
+      - label: See the blog
+        url: pages/build-a-daily-js-video-call-app-with-a-raise-your-hand-feature
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
@@ -42,13 +49,6 @@ sections:
           - label: Projects
             url: showcase/index.html
         content: Nikema's latest projects
-  - type: ctablock
-    component: CtaBlock
-    title: Daily-js API sample app
-    subtitle: walkthrough building the app with code samples
-    actions:
-      - label: See the blog
-        url: pages/build-a-daily-js-video-call-app-with-a-raise-your-hand-feature
 menus:
   main:
     title: Home
