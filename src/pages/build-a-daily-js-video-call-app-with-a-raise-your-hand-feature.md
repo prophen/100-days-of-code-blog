@@ -4,7 +4,7 @@ img_path: /images/daily-app.png
 menus:
   main:
     title: ""
-    identifier: Portfolio
+    identifier: Pages
   layouts:
     identifier: ""
     title: ""
