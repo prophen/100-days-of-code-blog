@@ -21,6 +21,8 @@ sections:
         url: https://github.com/prophen
       - label: LinkedIn Profile
         url: https://linkedin.com/in/nikemaprophet
+      - label: My Resume
+        url: https://nikema.dev/Nikema%20Prophet%20Software%20Engineer%20Resume.pdf
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
