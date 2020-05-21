@@ -4,6 +4,11 @@
       "title": "Portfolio",
       "url": "showcase",
       "identifier": "Portfolio"
+    },
+    {
+      "identifier": "Resume",
+      "url": "https://nikema.dev/Nikema%20Prophet%20Software%20Engineer%20Resume.pdf",
+      "title": "Resume"
     }
   ],
   "layouts": []
